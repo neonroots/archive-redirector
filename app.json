@@ -1,0 +1,5 @@
+{
+  "name": "Archive Redirector",
+  "description": "A simple ruby server that redirects request to your new project",
+  "repository": "https://heroku.com/deploy?template=https://github.com/neonroots/archive-redirector"
+}
